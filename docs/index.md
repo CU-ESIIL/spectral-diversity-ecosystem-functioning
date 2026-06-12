@@ -1,6 +1,7 @@
 # Home
 This is a template.
-## Working Group Title
+
+## Spectral Diversity Ecosystem Functioning Working Group
 
 Working Group Title
 
