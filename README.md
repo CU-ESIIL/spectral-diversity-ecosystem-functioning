@@ -1,14 +1,14 @@
-# Working Group Template
+# SDEF: Spectral Diversity and Ecosystem Functioning
 
-This repository is a template for ESIIL Working Groups.
+Repository and website for the ESIIL Spectral Diversity and Ecosystem Functioning (SDEF) Working Group.
 
-This template is designed as one connected system:
+## How this repository is organized
+
+This repository is designed as one connected system:
 
 - The repository is where the science happens.
 - The website is where the science is shared.
 - GitHub connects them through commits, version history, and publishing.
-
-## How this repository is organized
 
 The repository has two connected layers. Top-level files configure the project and its automation. The `docs/` folder contains the website content. `mkdocs.yml` tells MkDocs how to turn that content into the public site. Analysis folders hold the working scientific materials that generate the results shown on the website.
 

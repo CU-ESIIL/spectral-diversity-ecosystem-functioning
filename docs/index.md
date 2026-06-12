@@ -1,9 +1,4 @@
-# Home
-This is a template.
-
-## Spectral Diversity Ecosystem Functioning Working Group
-
-Working Group Title
+# SDEF: Spectral Diversity and Ecosystem Functioning
 
 This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
 
